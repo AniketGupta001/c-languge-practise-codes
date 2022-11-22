@@ -8,7 +8,7 @@ void calculatePrice(float value);
 int main(){
 
 float value = 100.0;//original value
-calculatePrice(value);
+calculatePrice(value)
 return 0;
 }
 
