@@ -17,4 +17,4 @@ float total;
 void calculatePrice(float value){
 total = value + ( value  *18);
 printf("FINAL PRICE IS : %f\n",total);
-}
+}edited
