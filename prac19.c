@@ -14,4 +14,4 @@ int main(){
     printf("the comparison results: %u\n",ptr == _ptr);
 
     return 0 ;
-}edited
+}
